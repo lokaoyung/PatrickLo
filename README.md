@@ -1,3 +1,3 @@
-## Hi there my name is Patrick
+## Hi, I'm Patrick 
 
-I just finished the BSc Computer Science and Engineering at Delft University of Technology and am pursuing a MSc in Biomedical Engineering :)
+I’m a computer science and engineering graduate from TU Delft and I’m moving into biomedical engineering. I'm passionate about combining computer science, machine learning and medicine, and am currently doing research on AI for radiology applications at the University of Alberta. 
